@@ -2,6 +2,8 @@
 
 A simple terminal based data inspector for clojure.
 
+Moved to codeberg https://codeberg.org/msladecek/inspector
+
 ## Usage
 
 [![Clojars Project](https://img.shields.io/clojars/v/com.msladecek/inspector.svg)](https://clojars.org/com.msladecek/inspector)
